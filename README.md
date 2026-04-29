@@ -4,7 +4,7 @@ If something interests me, I usually end up learning and building it.
 
 ## What I'm Working On 🔨
 - Right now, I'm working on improving my full-stack skills and exploring Generative AI.
-- 
+  
 
 ## My Stack 🛠️
 - **Languages** → JavaScript · HTML · CSS · Java · C  
