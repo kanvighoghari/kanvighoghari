@@ -24,7 +24,7 @@ If something interests me, I usually end up learning and building it.
 
 
 ## Reach Me 📬
-- 📧 [kanvighoghari1@gmail.com](mailto:kanvighoghari@gmail.com)  
+- 📧 [kanvighoghari@gmail.com](mailto:kanvighoghari@gmail.com)  
 - 💼 [linkedin.com/in/kanvighoghari](https://www.linkedin.com/in/kanvi-ghoghari-27ab19317/)  
 - 🐙 [github.com/kanvighoghari](https://github.com/kanvighoghari)
 
